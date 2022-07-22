@@ -1,5 +1,9 @@
 
 # Covid-19_Impact_Analysis 
+<p align="left">
+  <img width="1000" height="300" src="https://user-images.githubusercontent.com/103169083/180432751-0baa7b19-61a9-4cb2-8ab3-3b0ef7323502.jpg">
+</p>
+
 • Used Pandas Library to Extract, Clean, and Merge the Data.
 
 • Used plotly.express and plotly.graph_object graphing library to Visualize the Data
