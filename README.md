@@ -25,5 +25,5 @@ http://localhost:8888/nbconvert/html/Covid-19_Analysis_Python_Project1%20(1).ipy
 
 
 <p align="center">
-  <img width="400" height="200" src="https://user-images.githubusercontent.com/103169083/180431456-560f0d40-fc59-40c1-a5e3-53dd5bc71275.png">
+  <img width="380" height="200" src="https://user-images.githubusercontent.com/103169083/180431456-560f0d40-fc59-40c1-a5e3-53dd5bc71275.png">
 </p>
